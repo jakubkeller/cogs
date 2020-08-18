@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-18T14:25:36.996Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="42ACEDZbIe46HxYSG4Ab" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-18T14:28:46.220Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="LysCGDJJVtM_aFzzDb-B" version="13.6.2" type="github">
   <diagram name="Page-1" id="efa7a0a1-bf9b-a30e-e6df-94a7791c09e9">
     <mxGraphModel dx="2062" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -43,7 +43,7 @@
             <mxPoint x="20" y="8.000000000000188" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CUIb7ASsgSg6ZsvGadX9-115" value="&lt;ul&gt;&lt;li&gt;Articles can be represented as question/answers&lt;/li&gt;&lt;li&gt;Support for &quot;guided tours&quot;&lt;/li&gt;&lt;li&gt;Add supporting resources to an article (i.e., document, image, video, tour)&lt;/li&gt;&lt;li&gt;Connect interface to add/edit articles, define resources (and publish)&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=2;spacingRight=10;" vertex="1" parent="1">
+        <mxCell id="CUIb7ASsgSg6ZsvGadX9-115" value="&lt;ul&gt;&lt;li&gt;Articles can be represented as question/answers&lt;/li&gt;&lt;li&gt;Support for &quot;guided tours&quot; (following enhancement)&lt;/li&gt;&lt;li&gt;Add supporting resources to an article (i.e., document, image, video, tour)&lt;/li&gt;&lt;li&gt;Connect interface to add/edit articles, define resources (and publish)&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=2;spacingRight=10;" vertex="1" parent="1">
           <mxGeometry x="40" y="480" width="360" height="280" as="geometry" />
         </mxCell>
       </root>
